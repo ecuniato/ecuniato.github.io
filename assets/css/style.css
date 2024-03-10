@@ -126,6 +126,10 @@ strong {
   display: inline;
 }
 
+.hero-title>strong {
+  display: block;
+}
+
 .section-text>a {
   display: inline;
   color: glaucous;
