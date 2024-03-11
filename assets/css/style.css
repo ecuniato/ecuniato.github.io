@@ -520,12 +520,12 @@ body {
 
 .portfolio-card .card-subtitle {
   color: var(--orange-soda);
-  margin-block-end: 5px;
+  margin-block-end: 0px;
 }
 
 .portfolio-card .card-title {
   /* max-width: 20ch; */
-  margin-block-end: 20px;
+  margin-block-end: 5px;
 }
 
 .portfolio-card .btn-link {
