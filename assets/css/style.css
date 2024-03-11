@@ -108,7 +108,8 @@ li {
 
 a {
   text-decoration: none;
-  color: inherit;
+  /* color: inherit; */
+  color: var(--glaucous)
 }
 
 a,
