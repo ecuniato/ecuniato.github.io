@@ -627,9 +627,11 @@ body {
 \*-----------------------------------*/
 
 .contact-card {
-  background-color: var(--midnight-blue);
+  background-color: var(--independence);
+  /* background-color: var(--space-cadet); */
   padding: 50px 25px;
   border-radius: var(--radius-20);
+  /* box-shadow: 10px 10px var(--radius-20) var(--black); */
 }
 
 .contact-card .card-subtitle {
@@ -696,6 +698,7 @@ textarea.contact-input {
 
 .contact-icon {
   background-color: var(--glaucous);
+  /* background-color: var(--independence); */
   font-size: 2.4rem;
   padding: 20px;
   border-radius: 50%;
